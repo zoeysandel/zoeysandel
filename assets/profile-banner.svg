@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">Zoey Sandel — ideas into working software</title>
+  <desc id="desc">A dark green developer card with Zoey's name, a short tagline and a small terminal illustration.</desc>
+  <rect width="960" height="240" rx="18" fill="#152c26"/>
+  <rect x=".5" y=".5" width="959" height="239" rx="17.5" fill="none" stroke="#345047"/>
+  <circle cx="44" cy="38" r="4" fill="#b6db98"/>
+  <text x="59" y="43" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#b6c9bf">DEVELOPER / BUILDER</text>
+  <text x="40" y="111" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="650" letter-spacing="-2" fill="#f6f7f1">Zoey Sandel</text>
+  <text x="43" y="154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#d0dfd5">Ideas into working software.</text>
+  <text x="43" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#b6db98">native apps · web · AI tooling</text>
+  <g transform="translate(690 43)">
+    <rect width="228" height="150" rx="12" fill="#1c372e" stroke="#486355"/>
+    <path d="M0 32h228" stroke="#486355"/>
+    <circle cx="17" cy="16" r="3" fill="#789585"/>
+    <circle cx="29" cy="16" r="3" fill="#789585"/>
+    <circle cx="41" cy="16" r="3" fill="#789585"/>
+    <text x="18" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#b6db98">&gt; build something</text>
+    <text x="18" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#d0dfd5">  try it. improve it.</text>
+    <path d="M20 121l5 4-5 4" fill="none" stroke="#b6db98" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="34" y="119" width="9" height="13" rx="1" fill="#b6db98"/>
+  </g>
+</svg>
