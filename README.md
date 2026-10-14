@@ -1,4 +1,4 @@
-![Zoey Sandel — ideas into working software](assets/profile-banner.svg)
+![Zoey Sandel — ideas into working software](assets/profile-banner.png)
 
 I like turning ideas into something you can actually use. That might be a native Mac app, a web prototype, or an integration that lets an AI agent do something useful.
 
